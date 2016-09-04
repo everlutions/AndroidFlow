@@ -9,6 +9,10 @@ requirements:
  - XQuartz https://www.xquartz.org/
 
 How to use:
+1.piet
+2.henk
+
+
 1. Import alfred workflow
 2. Enter 'svg' as tag word and type the name of your .svg file
 3. Enter the desired width(MDPI)
