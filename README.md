@@ -17,7 +17,7 @@ How to use:
 5. Enter the name of your Android Project
 6. Celebrate, because it only took 30 sec's to create an img for each screen density
 
-The tag word 'svg' exports to mipmap folder.
-The tag 'svgDrawable' exports to drawable folder.
+- The tag word 'svg' exports to mipmap folder
+- The tag 'svgDrawable' exports to drawable folder.
 
 
