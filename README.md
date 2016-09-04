@@ -1,7 +1,5 @@
 # AndroidFlow
 
-##Alfred Android resource helper workflow
-
 With this workflow you can easily create an image for all your Android resource folders mipmap or drawable hpdi/xhdpi/xxhdpi/xxxhdpi. The only thing you need is a .svg (vector) image file from your designer. 
 
 requirements:
