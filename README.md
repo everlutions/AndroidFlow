@@ -11,10 +11,7 @@ requirements:
 How to use:
 
 1. Import alfred workflow
-2. Enter 'svg' as tag word and type the name of your .svg file
-3. Enter the desired width(MDPI)
-4. Enter the desired file name (be carefull of Android resource naming convention)
-5. Enter the name of your Android Project Celebrate! Because it only took 30 sec's to create an img for each  screen density in the mipmap
+2. Enter 'svg' as tag word and type the name of your .svg fileEnter the desired width(MDPI)Enter the desired file name (be carefull of Android resource naming convention)Enter the name of your Android ProjectCelebrate! Because it only took 30 sec's to create an img for each  screen density in the mipmap
 
 
 
