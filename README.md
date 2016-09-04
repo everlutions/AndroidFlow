@@ -16,7 +16,10 @@ How to use:
 4. Enter the desired file name (be carefull of Android resource naming convention)
 5. Enter the name of your Android Project
 6. Celebrate, because it only took 30 sec's to create an img for each screen density
- 
+7. Other
+8. 
+
+
   The alfred tag 'svg' exports to mipmap folder.  
   The alfred tag 'svgDrawable' exports to drawable folder.
 
